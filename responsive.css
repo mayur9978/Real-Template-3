@@ -1,0 +1,7 @@
+@media(max-width:500px){
+    html,body{
+        
+    display: flex;
+    align-items: center;
+    }
+}
